@@ -1,0 +1,4 @@
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_piControl_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_piControl_r1i1p1f1_gn_185001-244912.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2_r1i1p1f1_gn_185001-200012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2-rad_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2-rad_r1i1p1f1_gn_185001-200012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2-bgc_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/BCC-CSM2-MR/ta_Amon_BCC-CSM2-MR_1pctCO2-bgc_r1i1p1f1_gn_185001-200012.nc
