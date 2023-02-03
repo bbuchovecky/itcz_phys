@@ -3,6 +3,30 @@ import intake
 import numpy as np
 import xarray as xr
 
+def getcmippath(v,
+                m,
+                merge=True):
+    '''
+    Returns the path to the CMIP6 file on /tiger/scratch
+    
+    Parameters:
+    -----------
+    v : str
+        Variable name.
+    m : str
+        Model name.
+    
+    Returns:
+    --------
+    path : str
+        Path to the CMIP6 file.
+    '''
+    if merge:
+        return cmipmergedir+m+'/'+v+'_'+table_id[v]+'_'+m+'_'+c+'_'+variant_id[m]+'_'+grid_label[m]+'.nc'
+    if not merge:
+        return cmipdir+m+'/'+v+'_'+table_id[v]+'_'+m+'_'+c+'_'+variant_id[m]+'_'+grid_label[m]+'_*.nc'
+    
+
 def get_northward_heat_transport_from_flux(flux,
                                            single_member=True,
                                            mmm=True):
