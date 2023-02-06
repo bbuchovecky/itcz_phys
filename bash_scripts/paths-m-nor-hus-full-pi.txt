@@ -1,0 +1,2 @@
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2_r1i1p1f1_gn_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/NorESM2-LM/hus_Amon_NorESM2-LM_piControl_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/NorESM2-LM/hus_Amon_NorESM2-LM_piControl_r1i1p1f1_gn_160001-210012.nc
