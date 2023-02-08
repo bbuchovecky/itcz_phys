@@ -1,0 +1,6 @@
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/CESM2/hus_Amon_CESM2_1pctCO2_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/CESM2/hus_Amon_CESM2_1pctCO2_r1i1p1f1_gn_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/CESM2/hus_Amon_CESM2_1pctCO2-rad_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/CESM2/hus_Amon_CESM2_1pctCO2-rad_r1i1p1f1_gn_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/GFDL-ESM4/hus_Amon_GFDL-ESM4_1pctCO2_r1i1p1f1_gr1_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/GFDL-ESM4/hus_Amon_GFDL-ESM4_1pctCO2_r1i1p1f1_gr1_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/GFDL-ESM4/hus_Amon_GFDL-ESM4_1pctCO2-rad_r1i1p1f1_gr1_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/GFDL-ESM4/hus_Amon_GFDL-ESM4_1pctCO2-rad_r1i1p1f1_gr1_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2_r1i1p1f1_gn_000101-015012.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2-rad_r1i1p1f1_gn_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/NorESM2-LM/hus_Amon_NorESM2-LM_1pctCO2-rad_r1i1p1f1_gn_000101-014012.nc

@@ -1,0 +1,2 @@
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/EC-Earth3-CC/hus_Amon_EC-Earth3-CC_1pctCO2_r1i1p1f1_gr_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/EC-Earth3-CC/hus_Amon_EC-Earth3-CC_1pctCO2_r1i1p1f1_gr_185001-201412.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIP/EC-Earth3-CC/hus_Amon_EC-Earth3-CC_1pctCO2-rad_r1i1p1f1_gr_*.nc:/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/EC-Earth3-CC/hus_Amon_EC-Earth3-CC_1pctCO2-rad_r1i1p1f1_gr_185001-201412.nc

@@ -1,0 +1,37 @@
+ACCESS-ESM1-5
+evspsbl, hfls, hfss, lai, pr, prsn, ps, rlds, rlus, rlut, rsds, rsdt, rsus, rsut, tas, uas, vas
+1pctCO2, 1pctCO2-rad
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/evspsbl_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/evspsbl_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/hfls_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/hfls_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/hfss_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/hfss_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/lai_Lmon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/lai_Lmon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/pr_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/pr_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/prsn_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/prsn_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/ps_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/ps_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlds_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlds_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlus_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlus_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlut_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rlut_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsds_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsds_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsdt_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsdt_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsus_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsus_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsut_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/rsut_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/tas_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/tas_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/uas_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/uas_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/vas_Amon_ACCESS-ESM1-5_1pctCO2_r1i1p1f1_gn.nc
+/tiger/scratch/gpfs/GEOCLIM/bgb2/CMIPmerge/ACCESS-ESM1-5/vas_Amon_ACCESS-ESM1-5_1pctCO2-rad_r1i1p1f1_gn.nc
