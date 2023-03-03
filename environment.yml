@@ -17,3 +17,5 @@ dependencies:
   - cartopy
   - cmocean
   - xgcm
+  - xesmf
+  - esmf

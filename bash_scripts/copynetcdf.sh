@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # text file to read file names
 filename=$1

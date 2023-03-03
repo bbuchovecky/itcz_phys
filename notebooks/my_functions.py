@@ -4,6 +4,63 @@ import xarray as xr
 import pickle as pkl
    
 
+def get_itcz_metric(da,
+                    phi_1,
+                    phi_2,
+                    N,
+                    toPrint=False):
+    '''
+    Computes the ITCZ metric with an arbitrary N from
+    equation 1a of Adam et al. (2017).
+    
+    \phi = \frac{\int_{\phi_2}^{\phi_1} \phi [\cos{(\phi)}P]^N d\phi}{\int_{\phi_2}^{\phi_1} [\cos{(\phi)}P]^N d\phi}
+    
+    Parameters
+    ----------
+    da : xarray.DataArray
+        Zonal mean precipitation with time and lat dimensions.
+    phi_1 : int
+        Southernmost latitude bound in degrees.
+    phi_2 : int
+        Northernmost latitude bound in degrees.
+    N : int
+        Raise the \cos{(\phi)}P term to the N-th power.
+    
+    Returns
+    -------
+    itcz_lat : numpy.array
+        Array of latitude values corresponding to the ITCZ position.
+    
+    '''
+    da = da.sel(lat=slice(phi_1, phi_2))
+    if len(da.dims) != 1:
+        assert len(da.dims) == 2, f'expected two dimensions (time and lat), got {len(da.dims)}'
+        assert da.dims[1] == 'lat', f'expected lat as second dimension, got {da.dims[1]}'
+        hasTime = True
+    else:
+        assert da.dims[0] == 'lat', f'expected lat as only dimension, got {da.dims[0]}'
+        hasTime = False
+    
+    field = da.values
+    lat = da.lat.values
+    nlat = len(lat)
+    
+    if toPrint:
+        print(round(lat[0],5), round(lat[-1],5))
+    
+    numerator = 0
+    denominator = 0
+    for ilat in range(0,nlat-1):
+        if hasTime:
+            numerator += lat[ilat]*( np.cos(np.deg2rad(lat[ilat]))*field[:,ilat] )**N
+            denominator += ( np.cos(np.deg2rad(lat[ilat]))*field[:,ilat] )**N
+        if not hasTime:
+            numerator += lat[ilat]*( np.cos(np.deg2rad(lat[ilat]))*field[ilat] )**N
+            denominator += ( np.cos(np.deg2rad(lat[ilat]))*field[ilat] )**N
+        
+    itcz_lat = numerator/denominator
+    return itcz_lat
+
 def get_northward_heat_transport_from_flux(flux):
     '''
     Computes the integrated northward heat transport at
